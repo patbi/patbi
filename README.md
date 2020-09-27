@@ -49,7 +49,7 @@
 </p>
 
 
-<h3   ⭐️ ### 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://linkedin.com/in/patrickbiyaga"><img src="https://img.shields.io/badge/-patrickbiyaga%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
