@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Cybersecurity and network solutions at University Institute of the Coast.
+- 🎓 &nbsp; Studying Cybersecurity and network solutions at University Institute of the Coast(3IAC/3IL-LIMOGES).
 - 💼 &nbsp; Lead dev at [LeFax](https://lefax.cm/).
 - 💼 &nbsp; CEO | CTO at [See-Docs](http://see-docs.com/).
 - 💼 &nbsp; CEO at | CTO [Thenavigo](http://thenavigo.com/).
