@@ -4,9 +4,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Cybersecurity and network solutions at University Institute of the Coast.
-- 💼 &nbsp; Lead dev at [![LeFax](https://lefax.cm/).
-- 💼 &nbsp; CEO at [![See-Docs](http://see-docs.com/).
-- 💼 &nbsp; CEO at [![Thenavigo](http://thenavigo.com/).
+- 💼 &nbsp; Lead dev at [LeFax](https://lefax.cm/).
+- 💼 &nbsp; CEO at [See-Docs](http://see-docs.com/).
+- 💼 &nbsp; CEO at [Thenavigo](http://thenavigo.com/).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Newsletter Writing as hobbies/side hustles.
 - 📄 &nbsp;Please have a look at my [Résumé](https://about.me/biyaga) for more details about me. I'm open to feedback and suggestions!
