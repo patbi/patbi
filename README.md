@@ -7,7 +7,7 @@
 - 💼 &nbsp; Lead dev at [LeFax](https://lefax.cm/).
 - 💼 &nbsp; CEO | CTO at [See-Docs](http://see-docs.com/).
 - 💼 &nbsp; CEO at | CTO [Thenavigo](http://thenavigo.com/).
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence, Climat.
 - ✍️ &nbsp; Pursuing Graphic Design and Newsletter Writing as hobbies/side hustles.
 - 📄 &nbsp;Please have a look at my [Résumé](https://about.me/biyaga) for more details about me. I'm open to feedback and suggestions!
 
