@@ -2,15 +2,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Cybersecurity and network solutions at University Institute of the Coast(3IAC/3IL-LIMOGES).
+- 🤔 &nbsp; Exploring new Technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Cybersecurity and Network Solutions Engineer at University Institute of the Coast Douala - Cameroon (3IAC/3IL-LIMOGES).
 - 💼 &nbsp; Lead dev at [LeFax](https://lefax.cm/).
 - 💼 &nbsp; CEO | CTO at [See-Docs](http://see-docs.com/).
 - 💼 &nbsp; CEO at | CTO [Thenavigo](http://thenavigo.com/).
 - 💼 &nbsp; CEO at | CTO [AppliancesMarket]().
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence, Climat.
 - ✍️ &nbsp; Pursuing Graphic Design and Newsletter Writing as hobbies/side hustles.
-- 📄 &nbsp;Please have a look at my [Résumé](https://about.me/biyaga) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Resume](https://about.me/biyaga) for more details about me. I'm open to feedback and suggestions!
 
 <h3>🛠 Tech Stack</h3>
 
@@ -53,8 +53,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/patrickbiyaga"><img src="https://img.shields.io/badge/-patrickbiyaga%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:biyagapatrick@gmail.com"><img src="https://img.shields.io/badge/-biyagapatrick@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/biyagapatrick"><img src="https://img.shields.io/badge/-@biyagapatrick-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/biyagapatrick"><img src="https://img.shields.io/badge/-@biyagapatrick-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/biyagapatrick"><img src="https://img.shields.io/badge/-@biyagapatrick-E4405F?style=flat-square&logo=Instagram&logoColor=success"/></a>
+<a href="https://facebook.com/biyagapatrick"><img src="https://img.shields.io/badge/-@biyagapatrick-1877F2?style=flat-square&logo=Facebook&logoColor=red"/></a>
+<a href="https://twitter.com/patrickbiyaga"><img src="https://img.shields.io/badge/-@biyagapatrick-1877F2?style=flat-square&logo=Twitter&logoColor=yellow"/></a>
 </p>
