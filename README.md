@@ -5,9 +5,7 @@
 - 🤔 &nbsp; Exploring new Technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Cybersecurity and Network Solutions Engineer at University Institute of the Coast Douala - Cameroon (3IAC/3IL-LIMOGES).
 - 💼 &nbsp; Lead dev at [LeFax](https://lefax.cm/).
-- 💼 &nbsp; CEO | CTO at [See-Docs](http://see-docs.com/).
-- 💼 &nbsp; CEO at | CTO [Thenavigo](http://thenavigo.com/).
-- 💼 &nbsp; CEO at | CTO [AppliancesMarket]().
+- 💼 &nbsp; Creator of @Thenavigo + @See-Docs.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence, Climat.
 - ✍️ &nbsp; Pursuing Graphic Design and Newsletter Writing as hobbies/side hustles.
 - 📄 &nbsp;Please have a look at my [Resume](https://about.me/biyaga) for more details about me. I'm open to feedback and suggestions!
