@@ -23,6 +23,5 @@
 
 
 ### Latest articles
-<a target="_blank" href="https://seedoc.substack.com/" > 
-<a target="_blank" href="https://github.com/Thenavigo/web3Inmetaverse" > 
-<a target="_blank" href="https://github.com/patbi/Understand_TypeScript-"> 
+#### 🔭 [See-Docs](https://seedoc.substack.com/)
+#### 🔭 [Thenavigo](https://thenavigo.substack.com/)
