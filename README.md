@@ -23,6 +23,6 @@
 
 
 ### Latest articles
-<a target="_blank" href="https://github.com/Thenavigo/How_we_work_and_like_to_work_with_you" alt="Recent Article 0"> 
-<a target="_blank" href="https://github.com/Thenavigo/web3Inmetaverse" alt="Recent Article 1"> 
-<a target="_blank" href="https://github.com/patbi/Understand_TypeScript-" alt="Recent Article 2"> 
+<a target="_blank" href="https://seedoc.substack.com/" > 
+<a target="_blank" href="https://github.com/Thenavigo/web3Inmetaverse" > 
+<a target="_blank" href="https://github.com/patbi/Understand_TypeScript-"> 
