@@ -17,6 +17,6 @@
 
 <br />
 
-#### 🔭 I’m currently working on [Thenavigo](http://www.thenavigo.com/) and
+#### 🔭 I’m currently working on [Thenavigo](http://www.thenavigo.com/) +
 
 #### 🔭 [See-Docs](http://www.see-docs.com/) in TypeScript/JavaScript version and Cloud.
