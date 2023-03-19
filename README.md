@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new Technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Cybersecurity and Network Solutions Engineer at University Institute of the Coast Douala - Cameroon (3IAC/3IL-LIMOGES).
-- 💼 &nbsp; Lead dev at [LeFax](https://lefax.cm/).
+- 💼 &nbsp; Founder at [Thenavigo Store](http://store.thenavigo.com/).
 - 💼 &nbsp; Creator of @Thenavigo + @See-Docs.
 
 
@@ -17,9 +17,9 @@
 
 <br />
 
-#### 🔭 I’m currently working on [Thenavigo](http://www.thenavigo.com/) +
+#### 🔭 I’m currently working on [Thenavigo](https://www.thenavigo.com/) +
 
-#### 🔭 [See-Docs](http://www.see-docs.com/) in TypeScript/JavaScript version and Cloud.
+#### 🔭 [See-Docs](https://www.see-docs.com/) in TypeScript/JavaScript version and Cloud.
 
 
 ### Latest articles
