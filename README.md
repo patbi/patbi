@@ -19,7 +19,7 @@
 
 #### 🔭 I’m currently working on [Thenavigo](https://www.thenavigo.com/) +
 
-#### 🔭 [See-Docs](https://www.see-docs.com/) in TypeScript/JavaScript/Python and Cloud.
+#### 🔭 [See-Docs](https://www.see-docs.com/) in TypeScript/JavaScript/Python and Multicloud.
 
 
 ### Latest articles
