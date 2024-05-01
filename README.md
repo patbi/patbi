@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new Technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Cybersecurity and Network Solutions Engineer at University Institute of the Coast Douala - Cameroon (3IAC/3IL-LIMOGES).
+- 🎓 &nbsp; Computer Engineer (Cybersecurity and Network Solutions) at University Institute of the Coast Douala - Cameroon (3IAC/3IL-LIMOGES).
 - 💼 &nbsp; Founder at [Thenavigo Store](http://store.thenavigo.com/).
 - 💼 &nbsp; Creator of @Thenavigo + @See-Docs.
 
