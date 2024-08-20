@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Create accurate, comprehensive, and user-friendly documentation.
 - 🎓 &nbsp; Computer Engineer (3IAC/3IL-LIMOGES FRANCE).
+- 🤔 &nbsp; Create accurate, comprehensive, and user-friendly documentation.
 - 💼 &nbsp; Product Owner - [Thenavigo Store](http://store.thenavigo.com).
 - 💼 &nbsp; @Thenavigo + @See-Docs Product Owner.
 
