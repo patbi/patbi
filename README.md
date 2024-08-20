@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new Technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Engineer (Cybersecurity and Network Solutions) at University Institute of the Coast Douala - Cameroon (3IAC/3IL-LIMOGES).
-- 💼 &nbsp; Founder at [Thenavigo Store](http://store.thenavigo.com/).
-- 💼 &nbsp; Creator of @Thenavigo + @See-Docs.
+- 💼 &nbsp; Product Owner - [Thenavigo Store](http://store.thenavigo.com).
+- 💼 &nbsp; @Thenavigo + @See-Docs Product Owner.
 
 
 <a href="https://twitter.com/patrickbiyaga">
