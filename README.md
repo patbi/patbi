@@ -23,5 +23,5 @@
 
 
 ### Latest articles
-#### ✅ [See-Docs](https://seedoc.substack.com/)
-#### ✅ [Thenavigo](https://thenavigo.substack.com/)
+#### ✅ [See-Docs & Thenavigo Blog](https://blog.thenavigo.com)
+
