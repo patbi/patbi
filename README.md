@@ -18,11 +18,6 @@ The best solution is the good enough solution.
 
 <br />
 
-#### 🔭 I’m currently working on [Thenavigo](https://www.thenavigo.com) +
-
-#### 🔭 [See-Docs](https://www.see-docs.com) in TypeScript/JavaScript/Python and MultiCloud.
-
-
 ### Latest articles
 #### ✅ [See-Docs & Thenavigo Blog](https://blog.thenavigo.com)
 
