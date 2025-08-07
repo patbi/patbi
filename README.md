@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Master's degree in Cybersecurity and Artificial Intelligence (Efrei/Paris - FRANCE) In Progress.
+- 🎓 &nbsp; Master's degree in Cybersecurity and Artificial Intelligence (Efrei / Paris - FRANCE) In Progress.
 - 🤔 &nbsp; Create accurate, comprehensive, and user-friendly documentation.
 - 💼 &nbsp; @See-Docs + @Thenavigo Founder - Leadership.
 
