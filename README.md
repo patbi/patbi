@@ -1,5 +1,7 @@
 ### 👋 Hey there! I'm Patrick Biyaga.
 
+The best solution is the good enough solution.
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Master's degree in Cybersecurity and Artificial Intelligence (Efrei / Paris - FRANCE) In Progress.
