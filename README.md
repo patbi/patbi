@@ -14,16 +14,16 @@
 The best solution is the good enough solution.
 
 
-> High-quality - Sustainable | Maintainable | and Secure work
+> High-Quality - Sustainable | Maintainable | and Secure Work
 
 🍭 **[My Store](https://store.thenavigo.com/)** (restricted source) 
 
 
 ## Current Projects
 
-- 💬 **[OasisAI](https://oasisai.thenavigo.com/)** (closed source) - High-impact problem solving
-- 📖 **[Thenavigo](https://github.com/Thenavigo)** (restricted source) - Invaluable content for the leaders of today and tomorrow
-- 👀 **[See-Docs](https://github.com/See-Docs)**  (restricted source) - Healthcare platform for professionals  
+- 💬 **[OasisAI](https://oasisai.thenavigo.com/)** (closed source) - High-Impact Problem Solving
+- 📖 **[Thenavigo](https://github.com/Thenavigo)** (restricted source) - Invaluable content for the Leaders of Today and Tomorrow
+- 👀 **[See-Docs](https://github.com/See-Docs)**  (restricted source) - Healthcare Platform for Professionals  
 
 ## GitHub Activity
 
