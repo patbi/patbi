@@ -28,7 +28,7 @@ The best solution is the good enough solution.
 
 ## Current Labs
 
-- 🔄 **[ATELIER_PRA_PCA](https://oasisai.thenavigo.com/)** - 
+- 🔄 **[ATELIER_PRA_PCA](https://github.com/patbi/ATELIER_PRA_PCA)** - 
 - 🧽 **[Projet_Metriques_2026](https://github.com/patbi/Projet_Metriques_2026)** - 
 - 🛡️ **[ATELIER_CHIFFREMENT](https://github.com/patbi/ATELIER_CHIFFREMENT)** - 
 - 🧑‍💻 **[devops-tp-docker-patrick-biyaga-1](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1)** - 
