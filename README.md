@@ -14,26 +14,35 @@
 The best solution is the good enough solution.
 
 
-> 
+> High-quality - Sustainable | Maintainable | and Secure work
+
+🍭 **[My Store](https://store.thenavigo.com/)** (restricted source) – .
+
+
+## Current Projects
+
+- 💬 **[OasisAI](https://oasisai.thenavigo.com/)** (closed source) - High-impact problem solving
+- 📖 **[Thenavigo](https://github.com/Thenavigo)** (restricted source) - Invaluable content for the leaders of taday and tomorrow
+- 👀 **[See-Docs](https://github.com/See-Docs)**  (restricted source) - Healthcare platform for professionals  
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/patbi)
+
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [See-Docs & Thenavigo](https://blog.thenavigo.com/)
+
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@thenavigo-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thenavigo)
 
 
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🎓 &nbsp; Master's degree in Cybersecurity and Artificial Intelligence (Efrei / Paris - FRANCE) In Progress.
-- 🤔 &nbsp; Create accurate, comprehensive, and user-friendly documentation.
-- 💼 &nbsp; @See-Docs + @Thenavigo Founder - Leadership.
 
 
-<a href="https://twitter.com/patrickbiyaga">
-  <img align="left" alt="Patbi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/patrickbiyaga/">
-  <img align="left" alt="Patbi LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-<br />
-
-### Latest articles
-#### ✅ [See-Docs & Thenavigo Blog](https://blog.thenavigo.com)
 
