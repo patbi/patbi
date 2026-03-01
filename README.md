@@ -1,6 +1,6 @@
 # Hi, I'm Patrick Biyaga 👋
 
-📍 **Paris ↔ France** | 🤖 **AI Security Architect Student** | 🚀 **See-Docs & Thenavigo Founder**
+📍 **Paris ↔ France** | 🤖 **AI Security Architect Student - EFREI** | 🚀 **See-Docs & Thenavigo Founder**
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
