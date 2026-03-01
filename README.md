@@ -22,7 +22,7 @@ The best solution is the good enough solution.
 ## Current Projects
 
 - 💬 **[OasisAI](https://oasisai.thenavigo.com/)** (closed source) - High-impact problem solving
-- 📖 **[Thenavigo](https://github.com/Thenavigo)** (restricted source) - Invaluable content for the leaders of taday and tomorrow
+- 📖 **[Thenavigo](https://github.com/Thenavigo)** (restricted source) - Invaluable content for the leaders of today and tomorrow
 - 👀 **[See-Docs](https://github.com/See-Docs)**  (restricted source) - Healthcare platform for professionals  
 
 ## GitHub Activity
