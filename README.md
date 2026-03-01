@@ -28,13 +28,13 @@ The best solution is the good enough solution.
 
 ## Current Labs
 
-- 💬 **[ATELIER_PRA_PCA](https://oasisai.thenavigo.com/)** - 
-- 📖 **[Projet_Metriques_2026]()** - 
-- 👀 **[ATELIER_CHIFFREMENT]()** - 
-- 👀 **[devops-tp-docker-patrick-biyaga-1]()** - 
-- 👀 **[devsecops-lab]()** - 
-- 👀 **[devsecops-monitoring-lab]()** - 
-- 👀 **[cicd-python-app-scenario]()**  - 
+- 🔄 **[ATELIER_PRA_PCA](https://oasisai.thenavigo.com/)** - 
+- 🧽 **[Projet_Metriques_2026]()** - 
+- 🛡️ **[ATELIER_CHIFFREMENT]()** - 
+- 🧑‍💻 **[devops-tp-docker-patrick-biyaga-1]()** - 
+- 🧙‍♂️ **[devsecops-lab]()** - 
+- 🧩 **[devsecops-monitoring-lab]()** - 
+- 🌡️ **[cicd-python-app-scenario]()**  - 
 
 ## GitHub Activity
 
