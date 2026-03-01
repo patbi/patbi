@@ -49,7 +49,11 @@ The best solution is the good enough solution.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See-Docs & Thenavigo](https://blog.thenavigo.com/)
+- [The types of machine learning algorithms](https://blog.thenavigo.com/articles/673107b6b21621a526ce9c64)
+- [What Are AGI, AI, APIs, AI APIs](https://blog.thenavigo.com/articles/67557cfd065f5dd8118a31ae)
+- [Navigating the Database Landscape: A Quick Guide](https://blog.thenavigo.com/articles/6738e6ab337706773c9d9983)
+- [The importance of health and safety in the workplace](https://blog.thenavigo.com/articles/670ebee7028e17c26b5409d6)
+<!-- BLOG-POST-LIST:END -->
 
 
 ## Connect
