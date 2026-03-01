@@ -14,9 +14,7 @@
 The best solution is the good enough solution.
 
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
-
-🍭 **[sweetistics.com](https://sweetistics.com/)** (closed source) – AI-powered Twitter platform with analytics/ops stack.
+> 
 
 
 
