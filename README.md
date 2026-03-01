@@ -19,11 +19,22 @@ The best solution is the good enough solution.
 🍭 **[Store](https://store.thenavigo.com/)** (restricted source) 
 
 
-## Current Projects
+## Current Products
 
 - 💬 **[OasisAI](https://oasisai.thenavigo.com/)** (closed source) - High-Impact Problem Solving
 - 📖 **[Thenavigo](https://github.com/Thenavigo)** (restricted source) - Invaluable content for the Leaders of Today and Tomorrow
 - 👀 **[See-Docs](https://github.com/See-Docs)**  (restricted source) - Healthcare Platform for Professionals  
+
+
+## Current Labs
+
+- 💬 **[ATELIER_PRA_PCA](https://oasisai.thenavigo.com/)** - 
+- 📖 **[Projet_Metriques_2026]()** - 
+- 👀 **[ATELIER_CHIFFREMENT]()** - 
+- 👀 **[devops-tp-docker-patrick-biyaga-1]()** - 
+- 👀 **[devsecops-lab]()** - 
+- 👀 **[devsecops-monitoring-lab]()** - 
+- 👀 **[cicd-python-app-scenario]()**  - 
 
 ## GitHub Activity
 
