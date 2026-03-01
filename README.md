@@ -36,6 +36,11 @@ The best solution is the good enough solution.
 - 🧩 **[devsecops-monitoring-lab]()** - 
 - 🌡️ **[cicd-python-app-scenario]()**  - 
 
+
+### Legacy Work
+
+
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/patbi)
