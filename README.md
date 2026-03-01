@@ -16,7 +16,7 @@ The best solution is the good enough solution.
 
 > High-quality - Sustainable | Maintainable | and Secure work
 
-🍭 **[My Store](https://store.thenavigo.com/)** (restricted source) – .
+🍭 **[My Store](https://store.thenavigo.com/)** (restricted source) 
 
 
 ## Current Projects
