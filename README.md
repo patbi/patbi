@@ -28,13 +28,13 @@ The best solution is the good enough solution.
 
 ## Current Labs
 
-- 🔄 **[ATELIER_PRA_PCA](https://github.com/patbi/ATELIER_PRA_PCA)** - 
-- 🧽 **[Projet_Metriques_2026](https://github.com/patbi/Projet_Metriques_2026)** - 
-- 🛡️ **[ATELIER_CHIFFREMENT](https://github.com/patbi/ATELIER_CHIFFREMENT)** - 
-- 🧑‍💻 **[devops-tp-docker-patrick-biyaga-1](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1)** - 
-- 🧙‍♂️ **[devsecops-lab](https://github.com/patbi/devsecops-lab)** - 
-- 🧩 **[devsecops-monitoring-lab](https://github.com/patbi/devsecops-monitoring-lab)** - 
-- 🌡️ **[cicd-python-app-scenario](https://github.com/patbi/cicd-python-app-scenario)**  - 
+- 🔄 **[ATELIER_PRA_PCA](https://github.com/patbi/ATELIER_PRA_PCA)** - ATELIER_PRA_PCA
+- 🧽 **[Projet_Metriques_2026](https://github.com/patbi/Projet_Metriques_2026)** - Projet_Metriques_2026
+- 🛡️ **[ATELIER_CHIFFREMENT](https://github.com/patbi/ATELIER_CHIFFREMENT)** - ATELIER_CHIFFREMENT
+- 🧑‍💻 **[devops-tp-docker-patrick-biyaga-1](https://github.com/patbi/devops-tp-docker-patrick-biyaga-1)** - devops-tp-docker
+- 🧙‍♂️ **[devsecops-lab](https://github.com/patbi/devsecops-lab)** - devsecops-lab
+- 🧩 **[devsecops-monitoring-lab](https://github.com/patbi/devsecops-monitoring-lab)** - devsecops-monitoring-lab
+- 🌡️ **[cicd-python-app-scenario](https://github.com/patbi/cicd-python-app-scenario)**  - cicd-python-app-scenario
 
 
 ### Legacy Work
